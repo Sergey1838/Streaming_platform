@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "Some stream",
+      "description": "No description",
+      "id": 12
+    },
+    {
+      "title": "Me streaming component reuse",
+      "description": "This stream is about to end",
+      "id": 16
+    },
+    {
+      "title": "My new Stream",
+      "description": "Old good stream",
+      "id": 17
+    }
+  ]
+}
